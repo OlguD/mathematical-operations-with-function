@@ -1,4 +1,6 @@
 # mathematical-operations-with-function
 
+name = "olgu degirmenci"
+print(name.upper())
 
-Olgu Değirmenci
+For the people who just started Python. 
